@@ -43,6 +43,5 @@ The script performs the following tasks:
 The generated Word document will include these insights along with relevant tables and headers for easy readability.
 
 ## Customization
-
-Feel free to customize the script according to your specific needs. You can modify the formatting of the generated report, add new analysis parameters, or adjust the way data is processed and visualized.
+This Tool was built based on the data I used so feel free to customize the script according to your specific needs. You can modify the formatting of the generated report, add new analysis parameters, or adjust the way data is processed and visualized.
 
